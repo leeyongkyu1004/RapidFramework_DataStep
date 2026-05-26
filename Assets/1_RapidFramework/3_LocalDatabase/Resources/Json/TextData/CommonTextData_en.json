@@ -1,0 +1,10 @@
+﻿[
+  {
+    "Id": "info",
+    "Value": "Eng"
+  },
+  {
+    "Id": "info_value",
+    "Value": "Eng : {0}"
+  }
+]

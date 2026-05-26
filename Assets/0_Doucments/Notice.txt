@@ -1,0 +1,3 @@
+1. Initialize Scene에서 실행
+2. Manager는 RapidFramework 스크립트내에 Register 함수에 등록.
+3. 데이터 변경은 LocalDatabase Xlsx 값 변경 후 Project 창 마우스 오른쪽 RapidFramework - Convert ExcelToJson 클릭
