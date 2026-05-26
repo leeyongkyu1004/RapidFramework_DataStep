@@ -113,3 +113,9 @@
 * **Support**:
 * `AdaptiveCanvasScaler`
 * `AdaptiveCameraScaler`
+
+* **Extension**:
+* 'AwaitableExtensions'
+* 'CollectionExtensions'
+* 'Guard'
+* 'VectorExtensions'
