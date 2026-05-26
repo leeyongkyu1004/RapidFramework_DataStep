@@ -115,7 +115,7 @@
 * `AdaptiveCameraScaler`
 
 * **Extension**:
-* 'AwaitableExtensions'
-* 'CollectionExtensions'
-* 'Guard'
-* 'VectorExtensions'
+* `AwaitableExtensions`
+* `CollectionExtensions`
+* `Guard`
+* `VectorExtensions`
